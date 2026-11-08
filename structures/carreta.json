@@ -1,5 +1,5 @@
 {
-  "id": "carreta",
+  "id": "carreta_structure",
   "texture": {
     "atlas": "Old_townB.png",
     "tileSize": 48,
