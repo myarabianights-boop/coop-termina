@@ -177,5 +177,6 @@
     0
   ],
   "rotation": false,
-  "mirror": false
+  "mirror": false,
+  "weight": 1,
 }
