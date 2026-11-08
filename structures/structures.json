@@ -240,7 +240,7 @@
     "anchor": [ 0, 0 ],
     "rotation": false,
     "mirror": false,
-    "weight": 3
+    "weight": 8
   },
   {
     "id": "chimney_house0",
@@ -603,6 +603,6 @@
     "anchor": [ 0, 0 ],
     "rotation": false,
     "mirror": false,
-    "weight": 3
+    "weight": 8
   }
 ]
