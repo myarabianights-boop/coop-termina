@@ -239,7 +239,7 @@
     ],
     "anchor": [ 0, 0 ],
     "rotation": false,
-    "mirror": true,
+    "mirror": false,
     "weight": 3
   },
   {
