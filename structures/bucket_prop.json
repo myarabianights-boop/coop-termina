@@ -4,6 +4,7 @@
   "anchor": [ 0, 0 ],
   "rotation": false,
   "mirror": false,
+  "weight": 2,
   "footprint": [
     "#"
   ],
