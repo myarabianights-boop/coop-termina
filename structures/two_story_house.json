@@ -1,6 +1,7 @@
 {
   "id": "two_story_house",
   "priority": 1,
+  "weight": 2
   "anchor": [ 0, 0 ],
   "rotation": false,
   "mirror": false,
