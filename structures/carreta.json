@@ -179,4 +179,5 @@
   "rotation": false,
   "mirror": false,
   "weight": 1
+  "priority": 3,
 }
