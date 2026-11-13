@@ -1,0 +1,17 @@
+{
+  "id": "bucket_prop",
+  "priority": 1,
+  "anchor": [ 0, 0 ],
+  "rotation": false,
+  "mirror": false,
+  "footprint": [
+    "#"
+  ],
+  "texture": {
+    "atlas": "Old_townB",
+    "tileSize": 48,
+    "tiles": [
+      { "src": [ 3, 0 ], "at": [ 0, 0 ] }
+    ]
+  }
+}
