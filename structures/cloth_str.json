@@ -1,0 +1,21 @@
+{
+  "id": "cloth_str",
+  "priority": 3,
+  "anchor": [ 0, 0 ],
+  "rotation": false,
+  "mirror": true,
+  "footprint": [
+    "...",
+    "...",
+    "###"
+  ],
+  "texture": {
+    "atlas": "Old_townB.png",
+    "tileSize": 48,
+    "tiles": [
+      { "src": [ 15, 3 ], "at": [ 2, 0 ] }, { "src": [ 14, 4 ], "at": [ 1, 1 ] }, { "src": [ 15, 4 ], "at": [ 2, 1 ] },
+      { "src": [ 12, 8 ], "at": [ 0, 0 ] }, { "src": [ 13, 8 ], "at": [ 1, 0 ] }, { "src": [ 12, 9 ], "at": [ 0, 1 ] },
+      { "src": [ 10, 15 ], "at": [ 0, 2 ] }, { "src": [ 12, 15 ], "at": [ 2, 2 ] }
+    ]
+  }
+}
