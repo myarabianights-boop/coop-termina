@@ -15,7 +15,7 @@
     ".#.."
   ],
   "texture": {
-    "atlas": "6f943136-14e9-46ac-83f2-1ed7fd300b3c",
+    "atlas": "Lake_D.png",
     "tileSize": 48,
     "tiles": [
       { "src": [ 10, 0 ], "at": [ 2, 0 ] }, { "src": [ 8, 1 ], "at": [ 0, 1 ] }, { "src": [ 9, 1 ], "at": [ 1, 1 ] },
