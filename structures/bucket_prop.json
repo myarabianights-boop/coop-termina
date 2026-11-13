@@ -1,6 +1,6 @@
 {
   "id": "bucket_prop",
-  "priority": 1,
+  "priority": 3,
   "anchor": [ 0, 0 ],
   "rotation": false,
   "mirror": false,
@@ -8,7 +8,7 @@
     "#"
   ],
   "texture": {
-    "atlas": "Old_townB",
+    "atlas": "Old_townB.png",
     "tileSize": 48,
     "tiles": [
       { "src": [ 3, 0 ], "at": [ 0, 0 ] }
